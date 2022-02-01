@@ -1,17 +1,17 @@
 {
-  "name": "mern-crud-api",
+  "name": "react-todo-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server.js"
   },
-  "author": "Nandan Ray",
+  "author": "Tyler Potts",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.2",
-    "mongoose": "^6.1.8"
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
